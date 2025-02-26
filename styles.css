@@ -1,1 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
 
+.container {
+    display: block;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+#schedule {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
