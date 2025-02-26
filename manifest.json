@@ -1,0 +1,8 @@
+{
+  "name": "TheGrid",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "Grid",
+  "id": "gridapp",
+  "description": "the grid."
+}
