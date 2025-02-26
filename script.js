@@ -98,7 +98,7 @@ function checkSchedule() {
                 endTime.setHours(endHours, endMinutes);
 
                 const timeRemaining = Math.floor((endTime - now) / 1000 / 60);
-                message = `Time remaining: ${timeRemaining} minutes.`;
+                message = `${timeRemaining} MINUTES`;
                 found = true;
                 break;
             }
